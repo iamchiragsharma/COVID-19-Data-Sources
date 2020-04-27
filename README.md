@@ -17,8 +17,7 @@
 	* Meta Evidence : For Tracking Trials
 	
 # Literature Review Classified by Types
-* [Complete Literature](https://www.kaggle.com/covid-19-contributions) 
-* __Transmission, Incubation and Environmental Stability__
+* __[Transmission, Incubation and Environmental Stability](https://www.kaggle.com/covid-19-contributions)__
 	* Diagnostics
 	* Incubation Period
 	* Asymptomatic Shedding
@@ -26,7 +25,7 @@
 	* Persistence of Sources
 	* Persistence of Surfaces
 	* Seasonality
-* __Risk Factors__
+* __[Risk Factors](https://www.kaggle.com/covid-19-contributions)__
 	* Hypertension
 	* Heart Disease
 	* Diabetes
