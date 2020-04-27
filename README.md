@@ -49,7 +49,8 @@
 * [The New England Journal of Medicine : 120+ Articles](https://www.nejm.org/search?q=COVID-19&asug=#qs=%3Fq%3DCOVID-19%26asug%3D%26sort%3Ddate%26manualFilterParam%3DcontentAge_firstDelimiter)
 
 # Tweet Data
-* Multiple Sources are Available but I have most extensive tweet data from January to April.
+* [IEEE COVID-19 Tweets March 20 - ](https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset)
+* [Tweet IDs Jan to April 10 Languages 100M+](https://github.com/echen102/COVID-19-TweetIDs)
 
 # NLP
 * [Allen AI COVID Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) : Contains json of 15k+ Research papers and articles along with embeddings for this dataset.
